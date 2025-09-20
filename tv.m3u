@@ -1,0 +1,96 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=40783"
+
+#EXTINF:-1 group-title="Общие", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Сарафан
+https://vod1.stb.tvime.ru/Sarafan/tracks-v1a1/mono.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&remote=172.71.184.221&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&token=billing_wfc4fdIM3ow=&us_privacy=1YNY
+
+#EXTINF:-1 group-title="Общие", Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+#EXTINF:-1 group-title="Спорт", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общие", НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общие", Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 group-title="Новости", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Карусель
+https://streaming.goodstream.cyou/live/232.m3u8
+
+#EXTINF:-1 group-title="Общие", ОТР
+https://salam-nnv-ihome-79.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/Qxudkr5hDL17NaUH6URYzQ/stream/genetta-315.m9.rutube.ru/N-41lkXDa-V-6SjehmNj3w/1758936597/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+
+#EXTINF:-1 group-title="Общие", Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+
+#EXTINF:-1 group-title="Религия", Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Религия", Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлечение", СТС
+http://94.230.128.107:8080/CTC/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 group-title="Развлечение", ТВ3
+https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Пятница!
+https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 group-title="Общие", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Общие", Мир
+http://185.46.16.239:8000/Mir
+
+#EXTINF:-1 group-title="Развлечение", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+
+#EXTINF:-1 group-title="Знания", 360°
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Че
+https://a635217405-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/1758330000/1758331800.gts/286111372-287718020.ts
+
+#EXTINF:-1 group-title="Новости", Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Детям", Солнце
+
+
+#EXTINF:-1 group-title="Знания", Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 group-title="Новости", Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+#EXTINF:-1 group-title="Общие", ТВ Центр
+https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 group-title="Общие", ОНТ
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Кино", Кинокомедия
+
+
+#EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
+
+
+#EXTINF:-1 group-title="Развлечение", Анекдот ТВ
+
+
+#EXTINF:-1 group-title="Хобби", Кухня
