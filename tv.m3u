@@ -63,7 +63,6 @@ https://streaming.goodstream.cyou/live/38.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Че
-https://a635217405-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/1758330000/1758331800.gts/286111372-287718020.ts
 
 #EXTINF:-1 group-title="Новости", Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
@@ -94,3 +93,4 @@ https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
 
 
 #EXTINF:-1 group-title="Хобби", Кухня
+
