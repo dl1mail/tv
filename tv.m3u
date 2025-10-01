@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://streaming.goodstream.cyou/live/232.m3u8
 
 #EXTINF:-1 group-title="Общие", ОТР
-https://salam-nnv-ihome-79.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/Qxudkr5hDL17NaUH6URYzQ/stream/genetta-315.m9.rutube.ru/N-41lkXDa-V-6SjehmNj3w/1758936597/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+http://vs6.cdn.mrf.tvime.ru/otr_MSK/video.m3u8?token=billing_wpYX3ow=
 
 #EXTINF:-1 group-title="Общие", Рен ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -101,6 +101,7 @@ http://vod1.stb.tvime.ru/Dom_Kino_Premium_HD/video.m3u8?token=billing_wpYX3ow=
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://vod1.stb.tvime.ru/mosfilmhd/video.m3u8?token=billing_wpYX3ow=
+
 
 
 
