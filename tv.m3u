@@ -100,7 +100,8 @@ http://vod2.stb.tvime.ru/Zoopark/video.m3u8?token=billing_wpYX3ow=
 http://vod1.stb.tvime.ru/Dom_Kino_Premium_HD/video.m3u8?token=billing_wpYX3ow=
 
 #EXTINF:-1 group-title="Общие", Мосфильм
-http://vod1.stb.tvime.ru/mosfilmhd/video.m3u8?token=billing_wpYX3ow=
+http://192.162.64.99:5100/play/a02e/43961590.m3u8
+
 
 
 
