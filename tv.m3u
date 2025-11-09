@@ -44,7 +44,7 @@ http://94.230.128.107:8080/CTC/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:-1 group-title="Общие", ТВ3
-https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://217.25.80.16/TV_3/mono.m3u8
 
 #EXTINF:-1 group-title="Общие", Пятница!
 https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -97,6 +97,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://vod1.stb.tvime.ru/mosfilmhd/video.m3u8?token=billing_wpYX3ow=
+
 
 
 
