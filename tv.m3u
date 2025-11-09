@@ -16,7 +16,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Общие", Пятый канал
-https://95.47.156.60:8000/play/5/96234362.m3u8
+https://193.25.8.59:8000/5
 
 #EXTINF:-1 group-title="Общие", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
@@ -97,6 +97,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://vod1.stb.tvime.ru/mosfilmhd/video.m3u8?token=billing_wpYX3ow=
+
 
 
 
