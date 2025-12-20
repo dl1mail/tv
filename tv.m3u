@@ -62,7 +62,7 @@ http://85.192.10.131/hls/tnt/playlist.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Общие", Че
-http://vs6.cdn.mrf.tvime.ru/che/video.m3u8?token=billing_wpYX3ow=
+http://95.66.188.74/Che/mono.m3u8
 
 #EXTINF:-1 group-title="Общие", Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
@@ -91,6 +91,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
