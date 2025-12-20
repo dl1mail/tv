@@ -22,7 +22,7 @@ http://85.192.10.131/hls/5kanal/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Карусель
-http://vs6.cdn.mrf.tvime.ru/karusel_MSK/video.m3u8?token=billing_wpYX3ow=
+http://77.232.131.211/Karusel/index.m3u8
 
 #EXTINF:-1 group-title="Общие", ОТР
 http://vs6.cdn.mrf.tvime.ru/otr_MSK/video.m3u8?token=billing_wpYX3ow=
@@ -91,6 +91,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
