@@ -19,7 +19,7 @@ http://31.131.141.195:8000/play/1040/index.m3u8
 http://85.192.10.131/hls/5kanal/playlist.m3u8
 
 #EXTINF:-1 group-title="Общие", Россия 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+https://77.232.131.211/Rossiya24/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Карусель
 http://77.232.131.211/Karusel/index.m3u8
@@ -91,6 +91,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
