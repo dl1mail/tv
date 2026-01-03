@@ -75,6 +75,7 @@ http://vod1.stb.tvime.ru/pobeda/video.m3u8?token=billing_wpYX3ow=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
 #EXTINF:-1 group-title="Общие", ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
 #EXTINF:-1 group-title="Общие", ОНТ
@@ -91,6 +92,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
