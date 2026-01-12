@@ -4,7 +4,7 @@
 http://194.8.128.38:8080/ort/playlist.m3u8
 
 #EXTINF:-1 group-title="Общие", Сарафан
-http://vod1.stb.tvime.ru/Sarafan/video.m3u8?token=billing_wpYX3ow=
+http://176.118.197.125/Sarafan/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Россия 1
 http://5.188.221.43:8080/play/rossiya_1
@@ -87,6 +87,7 @@ http://85.11.144.6:6060/play/a07v/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
