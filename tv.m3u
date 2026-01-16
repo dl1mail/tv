@@ -34,7 +34,7 @@ http://95.47.156.60:8000/play/11/index.m3u8
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Общие", Союз
-http://95.66.188.74/Soyuz/mono.m3u8
+http://176.118.197.125/Souz/index.m3u8
 
 #EXTINF:-1 group-title="Общие", СТС
 http://94.230.128.107:8080/CTC/index.m3u8
@@ -84,6 +84,7 @@ http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
