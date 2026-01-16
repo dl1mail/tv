@@ -62,7 +62,7 @@ http://5.188.221.43:8080/play/che
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Общие", Победа
-http://95.66.188.74/Pobeda/mono.m3u8
+http://193.25.8.59:8000/tochka
 
 #EXTINF:-1 group-title="Общие", Россия К
 http://85.192.10.131/hls/kultura/playlist.m3u8
@@ -81,6 +81,7 @@ http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
