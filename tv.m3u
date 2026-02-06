@@ -16,7 +16,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 http://185.46.16.239:8000/NTV
 
 #EXTINF:-1 group-title="Общие", Пятый канал
-http://85.192.10.131/hls/5kanal/playlist.m3u8
+http://95.47.156.60:8000/play/5/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Россия 24
 http://77.232.131.211/Rossiya24/index.m3u8
@@ -77,6 +77,7 @@ http://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/tracks-v1a1/mono.m3u8
+
 
 
 
