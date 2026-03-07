@@ -74,7 +74,8 @@ http://vod.tuva.ru/nauka2/index.m3u8
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 
 #EXTINF:-1 group-title="Общие", Советское кино
-http://213.176.19.162:8081/iptv/kino-1-International/playlist.m3u8
+http://45.151.62.193:8081/iptv/sovet-kino-channel/playlist.m3u8
+
 
 
 
